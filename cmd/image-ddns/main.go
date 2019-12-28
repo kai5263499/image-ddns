@@ -27,8 +27,8 @@ type config struct {
 
 const (
 	rtype = "A"
-	ttl   = 1
-	proxy = true
+	ttl   = 300
+	proxy = false
 )
 
 var (
