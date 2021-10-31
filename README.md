@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/kai5263499/image-ddns)](https://goreportcard.com/report/github.com/kai5263499/image-ddns)
+
 # image-ddns
 Updates a CloudFlare A record with an IP address in an image. 
 
